@@ -1,0 +1,38 @@
+[
+  {
+    "id": "p1",
+    "name": "Clara Mitchell",
+    "photo": null,
+    "rating": 4.8,
+    "totalRides": 23,
+    "bio": "Work downtown at a law firm. Usually need rides during rush hour.",
+    "memberSince": "Dec 2025"
+  },
+  {
+    "id": "p2",
+    "name": "David Kim",
+    "photo": null,
+    "rating": 4.6,
+    "totalRides": 11,
+    "bio": "Student at U of T. Getting around without a car.",
+    "memberSince": "Feb 2026"
+  },
+  {
+    "id": "p3",
+    "name": "Fatima Al-Hassan",
+    "photo": null,
+    "rating": 4.9,
+    "totalRides": 45,
+    "bio": "Freelance photographer. Always on the move across the GTA.",
+    "memberSince": "Oct 2025"
+  },
+  {
+    "id": "p4",
+    "name": "Ryan O'Brien",
+    "photo": null,
+    "rating": 0,
+    "totalRides": 0,
+    "bio": "New to OTW. Just moved to Brampton from Ottawa.",
+    "memberSince": "Apr 2026"
+  }
+]
